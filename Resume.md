@@ -1,4 +1,4 @@
-<h1 id="rajat">RAJAT</h1>
+<h1 id="rajat">RAJAT BHATT</h1>
 <p><strong>Gurugram, India</strong> | <strong>Phone:</strong> [Your Number] | <strong>Email:</strong> [Your Email] <strong>LinkedIn:</strong>  <a href="http://www.linkedin.com/in/">www.linkedin.com/in/</a><strong>GitHub:</strong> <a href="https://github.com/Rajatbhatt1310">https://github.com/Rajatbhatt1310</a></p>
 <h2 id="objective">OBJECTIVE</h2>
 <p>Ambitious <strong>B.Tech Computer Science</strong> student at KRMU with a strong foundation in Python and Web Development. Proven ability to build functional applications like tourist guides and student directories. Seeking a technical internship to leverage skills in <strong>Django</strong> and <strong>Full-Stack Development</strong>.</p>
